@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StageBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e1ba8794f37c316697f415d578fff9f810d92ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("StageBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StageBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

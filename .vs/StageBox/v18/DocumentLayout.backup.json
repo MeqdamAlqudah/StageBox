@@ -17,8 +17,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 176,
-          "SelectedChildIndex": 8,
+          "DockedWidth": 350,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,10 +27,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:2033337944:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -58,8 +54,7 @@
               "RelativeToolTip": "StageBox.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-05T00:06:21.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T00:06:21.36Z"
             },
             {
               "$type": "Document",
@@ -69,7 +64,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Practise\\StageBox\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T23:26:07.961Z",
               "EditorCaption": ""
@@ -77,7 +72,7 @@
           ]
         },
         {
-          "DockedWidth": 215,
+          "DockedWidth": 41,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -99,10 +94,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
               "$type": "Bookmark",
