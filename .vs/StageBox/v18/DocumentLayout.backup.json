@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{2F82C481-C279-4183-B1DB-41209FDF99B6}|StageBox.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2F82C481-C279-4183-B1DB-41209FDF99B6}|StageBox.csproj|c:\\practise\\stagebox\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F82C481-C279-4183-B1DB-41209FDF99B6}|StageBox.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F82C481-C279-4183-B1DB-41209FDF99B6}|StageBox.csproj|c:\\practise\\stagebox\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F82C481-C279-4183-B1DB-41209FDF99B6}|StageBox.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F82C481-C279-4183-B1DB-41209FDF99B6}|StageBox.csproj|c:\\practise\\stagebox\\stagebox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2F82C481-C279-4183-B1DB-41209FDF99B6}|StageBox.csproj|solutionrelative:stagebox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -17,8 +25,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 361,
-          "SelectedChildIndex": 7,
+          "DockedWidth": 360,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,23 +46,37 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StageBox.csproj",
-              "DocumentMoniker": "C:\\Practise\\StageBox\\StageBox.csproj",
-              "RelativeDocumentMoniker": "StageBox.csproj",
-              "ToolTip": "C:\\Practise\\StageBox\\StageBox.csproj",
-              "RelativeToolTip": "StageBox.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-05T00:06:21.36Z"
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Practise\\StageBox\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Practise\\StageBox\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-15T06:01:25.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Practise\\StageBox\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Practise\\StageBox\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-15T05:58:36.319Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,15 +86,27 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Practise\\StageBox\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T23:26:07.961Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StageBox.csproj",
+              "DocumentMoniker": "C:\\Practise\\StageBox\\StageBox.csproj",
+              "RelativeDocumentMoniker": "StageBox.csproj",
+              "ToolTip": "C:\\Practise\\StageBox\\StageBox.csproj",
+              "RelativeToolTip": "StageBox.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T00:06:21.36Z"
             }
           ]
         },
         {
-          "DockedWidth": 30,
+          "DockedWidth": 31,
           "SelectedChildIndex": -1,
           "Children": [
             {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StageBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6a9e95a3adcb4434877accbec1e8ad2bcd824b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac403bd29bada57b883407aa4499edddb5910604")]
 [assembly: System.Reflection.AssemblyProductAttribute("StageBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StageBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
